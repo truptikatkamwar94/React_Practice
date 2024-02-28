@@ -11,4 +11,4 @@ import React from 'react'
 // const Greet = () => <h1>Hello Developer!</h1>
 // export default Greet;
     //OR
-export const Greet = () =><h1>Hello My Dear Me!!</h1>
+export const Greet = () =><h1>Functionl Component!!</h1>
