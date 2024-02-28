@@ -1,12 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-// import Greet from './components/Greet'
-  //OR
-import { Greet } from './components/Greet';
+
 function App() {
   return (
     <div className="App">
-      <Greet/>
+      <h1>Hello World!</h1>
     </div>
   );
 }
